@@ -78,7 +78,7 @@ git clone git@github.com:stephenolenchak/colors.git
 ```bash 
 cp colors/* /var/www/html/
 ```
-3. Edit the base in code.js 
+3. Edit the base in js/code.js 
 ```bash
 const urlBase = 'http://{PUT YOUR URL HERE}.com/LAMPAPI';
 ```
