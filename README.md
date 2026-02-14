@@ -75,7 +75,8 @@ INSERT INTO Colors (Name, UserID) VALUES
 git clone git@github.com:stephenolenchak/colors.git
 ```
 2. Copy the files to /var/www/html/
-```bash cp colors/* /var/www/html/
+```bash 
+cp colors/* /var/www/html/
 ```
 3. Edit the base in code.js 
 ```bash
